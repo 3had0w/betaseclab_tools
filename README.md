@@ -12,30 +12,14 @@
 | CVE-2017-10271 | XMLDecoder反序列化 | 10.3.6.0, 12.1.3.0, 12.2.1.* | [Github](https://github.com/jas502n/CVE-2018-2628) |
 | CVE-2018-2628 | JAVA反序列化 | 10.3.6.0，12.1.3.0，12.2.1.2 | ------ |
 | CVE-2018-2893 | JAVA反序列化 | 10.3.6.0，12.1.3.0，12.2.1.2，12.2.1.3 | [Github](https://github.com/qianl0ng/CVE-2018-2893) |
-
-CVE编号	                   漏洞类型	                     影响版本号	                工具来源
-
-	     	          	          
-
-	     	          	 
-
-CVE-2018-2894	     任意文件上传	          10.3.6.0，12.1.3.0，12.2.1.2，12.2.1.3	  https://github.com/jas502n/CVE-2018-2894
-
-CVE-2018-3245	     JAVA反序列化	          10.3.6.0， 12.1.3.0， 12.2.1.3	         https://github.com/pyn3rd/CVE-2018-3245
-
-CVE-2018-3191	     JAVA反序列化	          10.3.6.0、12.2.1.0、12.1.3.0、12.2.1.1、12.2.1.3	http://0-sec.org/download/CVE-2018-3191.zip
-
-CVE-2018-3252	     JAVA反序列化	          10.3.6.0, 12.1.3.0, 12.2.1.3	
-
-CVE-2019-2615	     WebLogic任意文件读取 	10.3.6.0 ，12.1.3.0 ，12.2.1.3	         https://github.com/chiaifan/CVE-2019-2615
-
-CVE-2019-2618	     任意文件上传	          10.3.6.0、12.1.3.0、12.2.1.3	           https://github.com/jas502n/cve-2019-2618
-
-CVE-2019-2725	     JAVA反序列化	          10.* 、12.1.3	                          https://github.com/ianxtianxt/CVE-2019-2725
-
-CVE-2019-2729	     JAVA反序列化	          10.3.6.0.0，12.1.3.0.0，12.2.1.3.0	     https://github.com/black-mirror/Weblogic
-
-CNVD-C-2019-48814	 JAVA反序列化	          10.3.6.0，12.1.3.0，12.2.1.2，12.2.1.3	  https://github.com/bigsizeme/CNVD-C-2019-48814
-
-weblogic-admin	   weblogic后台和常用弱口令		                                     https://github.com/rabbitmask/WeblogicWeakPwd
-
+| CVE-2018-2894 | 任意文件上传 | 10.3.6.0，12.1.3.0，12.2.1.2，12.2.1.3 | [Github](https://github.com/jas502n/CVE-2018-2894) |
+| CVE-2018-3245 | JAVA反序列化 | 10.3.6.0，12.1.3.0，12.2.1.3 | [Github](https://github.com/pyn3rd/CVE-2018-3245) |
+| CVE-2018-3191 | JAVA反序列化 | 10.3.6.0，12.2.1.0，12.1.3.0，12.2.1.1，12.2.1.3 | [0-Sec](http://0-sec.org/download/CVE-2018-3191.zip) |
+| CVE-2018-3252 | JAVA反序列化 | 10.3.6.0, 12.1.3.0, 12.2.1.3 | ------ |
+| CVE-2019-2615 | WebLogic任意文件读取 | 10.3.6.0，12.1.3.0，12.2.1.3 | [0-Sec](https://github.com/chiaifan/CVE-2019-2615) |
+| CVE-2019-2618 | 任意文件上传 | 10.3.6.0，12.1.3.0，12.2.1.3 | [Github](https://github.com/jas502n/cve-2019-2618) |
+| CVE-2019-2725 | JAVA反序列化 | 10.*，12.1.3 | [Github](https://github.com/ianxtianxt/CVE-2019-2725) |
+| CVE-2019-2729 | JAVA反序列化 | 10.3.6.0.0，12.1.3.0.0，12.2.1.3.0 | [Github](https://github.com/black-mirror/Weblogic) |
+| CNVD-C-2019-48814 | JAVA反序列化 | 10.3.6.0，12.1.3.0，12.2.1.2，12.2.1.3 | [Github](https://github.com/bigsizeme/CNVD-C-2019-48814) |
+| Weblogic-admin | Weblogic后台和常用弱口令 |   | [Github](https://github.com/rabbitmask/WeblogicWeakPwd) |
+| Weblogic_Decrypt | Weblogic 7种解密方式及工具 |   | [Github](https://github.com/TideSec/Decrypt_Weblogic_Password) |
