@@ -1,6 +1,13 @@
 # betaseclab_weblogic
 贝塔安全实验室成员针对常见的中间件漏洞、web框架，应用漏洞等安全问题进行了总结，并汇总了一些poc与exp脚本工具，其目的是为方便网络安全人员进行安全测试，切记不做违法犯罪之事，否则一切后果后果自行承担。同时请关注我们的公众号：BetaSecLab；
 
+| CVE编号    | 漏洞类型 | 影响版本号 | 工具来源 |
+| ------------- | ----------- |
+| Windows Vista | [![Windows Vista Starter][pVistaST]][fVistaST] [![Windows Vista Home Basic][pVistaHB]][fVistaHB] |
+| Windows 7     | [![Windows 7 Starter][pWin7ST]][fWin7ST] [![Windows 7 Home Basic][pWin7HB]][fWin7HB] |
+| Windows 8     | [![Windows 8 Developer Preview][pWin8DP]][fWin8DP] [![Windows 8 Consumer Preview][pWin8CP]][fWin8CP] [![Windows 8 Release Preview][pWin8RP]][fWin8RP] [![Windows 8][pWin8]][fWin8] |
+| Windows 8.1   | [![Windows 8.1 Preview][pWin81P]][fWin81P] [![Windows 8.1][pWin81]][fWin81] |
+| Windows 10    | [![Windows 10 Technical Preview][pWin10TP]][fWin10TP] [![Windows 10 Pro Technical Preview][pWin10PTP]][fWin10PTP] [![Windows 10][pWin10]][fWin10] |
 
 CVE编号	                   漏洞类型	                     影响版本号	                工具来源
 
