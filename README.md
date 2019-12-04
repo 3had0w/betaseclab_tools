@@ -9,25 +9,16 @@
 | CVE-2016-3510 | JAVA反序列化 | 10.3.6.0，12.1.3.0，12.2.1.0 | [Github](https://github.com/koutto/jok3r-pocs) |
 | CVE-2017-3428 | JAVA反序列化 | 10.3.6.0，12.1.3.0，12.2.1.0，12.2.1.1 | [0-Sec](http://www.0-sec.org/download/CVE-2017-3248.rar) |
 
+| CVE-2017-3506 | XMLDecoder反序列化 | 10.3.6.0，12.1.3.0，12.2.1* | [Github](https://github.com/ianxtianxt/CVE-2017-3506) |
+| CVE-2017-10271 | XMLDecoder反序列化 | 10.3.6.0, 12.1.3.0, 12.2.1.* | [Github](https://github.com/jas502n/CVE-2018-2628) |
+| CVE-2018-2628 | JAVA反序列化 | 10.3.6.0，12.1.3.0，12.2.1.2 | ------ |
+| CVE-2018-2893 | JAVA反序列化 | 10.3.6.0，12.1.3.0，12.2.1.2，12.2.1.3 | [Github](https://github.com/qianl0ng/CVE-2018-2893) |
+
 CVE编号	                   漏洞类型	                     影响版本号	                工具来源
 
-CVE-2014-4210	      SSRF(服务端请求伪造攻击)	        10.0.2.0, 10.3.6.0	
+	     	          	          
 
-CVE-2015-4852	     JAVA反序列化	          12.2.1.0，12.1.3.0，12.1.2.0，10.3.6.0 https://github.com/koutto/jok3r-pocs
-
-CVE-2016-0638	     JAVA反序列化	          12.2.1.0，12.1.3.0，12.1.2 0，10.3.6 0	
-
-CVE-2016-3510	     JAVA反序列化	          10.3.6.0, 12.1.3.0, 12.2.1.0	          https://github.com/koutto/jok3r-pocs
-
-CVE-2017-3428	     JAVA反序列化	          10.3.6.0, 12.1.3.0,12.2.1.0, 12.2.1.1	  http://www.0-sec.org/download/CVE-2017-3248.rar
-
-CVE-2017-3506	     XMLDecoder反序列化	    10.3.6.0, 12.1.3.0, 12.2.1*            	https://github.com/ianxtianxt/CVE-2017-3506
-
-CVE-2017-10271	   XMLDecoder反序列化	    10.3.6.0, 12.1.3.0, 12.2.1.*            https://github.com/RealBearcat/
-
-CVE-2018-2628	     JAVA反序列化	          10.3.6.0，12.1.3.0，12.2.1.2	          https://github.com/jas502n/CVE-2018-2628
-
-CVE-2018-2893	     JAVA反序列化	          10.3.6.0，12.1.3.0，12.2.1.2，12.2.1.3	 https://github.com/qianl0ng/CVE-2018-2893
+	     	          	 
 
 CVE-2018-2894	     任意文件上传	          10.3.6.0，12.1.3.0，12.2.1.2，12.2.1.3	  https://github.com/jas502n/CVE-2018-2894
 
