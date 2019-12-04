@@ -1,19 +1,5 @@
 # betaseclab_weblogic
-贝塔安全实验室成员针对常见的中间件漏洞、web框架，应用漏洞等安全问题进行了总结，并汇总了一些poc与exp脚本工具，其目的是为方便网络安全人员进行安全测试，切记不做违法犯罪之事，否则一切后果后果自行承担。同时请关注我们的公众号：BetaSecLab；
-
-[pVistaST]:  http://stascorp.com/images/rdpwrap/pVistaST.jpg
-[pVistaHB]:  http://stascorp.com/images/rdpwrap/pVistaHB.jpg
-[pWin7ST]:   http://stascorp.com/images/rdpwrap/pWin7ST.jpg
-[pWin7HB]:   http://stascorp.com/images/rdpwrap/pWin7HB.jpg
-[pWin8DP]:   http://stascorp.com/images/rdpwrap/pWin8DP.jpg
-[pWin8CP]:   http://stascorp.com/images/rdpwrap/pWin8CP.jpg
-[pWin8RP]:   http://stascorp.com/images/rdpwrap/pWin8RP.jpg
-[pWin8]:     http://stascorp.com/images/rdpwrap/pWin8.jpg
-[pWin81P]:   http://stascorp.com/images/rdpwrap/pWin81P.jpg
-[pWin81]:    http://stascorp.com/images/rdpwrap/pWin81.jpg
-[pWin10TP]:  http://stascorp.com/images/rdpwrap/pWin10TP.jpg
-[pWin10PTP]: http://stascorp.com/images/rdpwrap/pWin10PTP.jpg
-[pWin10]:    http://stascorp.com/images/rdpwrap/pWin10.jpg
+贝塔安全实验室成员针对常见的中间件漏洞、web框架，应用漏洞等安全问题进行了总结，并汇总了一些poc与exp脚本工具，其目的是为方便网络安全人员进行安全测试，切记不做违法犯罪之事，否则一切后果后果自行承担。
 
 [fVistaST]:  http://stascorp.com/images/rdpwrap/VistaST.png
 [fVistaHB]:  http://stascorp.com/images/rdpwrap/VistaHB.png
