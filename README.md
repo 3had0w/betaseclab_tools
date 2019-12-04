@@ -1,41 +1,13 @@
 # betaseclab_weblogic
 贝塔安全实验室成员针对常见的中间件漏洞、web框架，应用漏洞等安全问题进行了总结，并汇总了一些poc与exp脚本工具，其目的是为方便网络安全人员进行安全测试，切记不做违法犯罪之事，否则一切后果后果自行承担。
 
-[pVistaST]:  http://stascorp.com/images/rdpwrap/pVistaST.jpg
-[pVistaHB]:  http://stascorp.com/images/rdpwrap/pVistaHB.jpg
-[pWin7ST]:   http://stascorp.com/images/rdpwrap/pWin7ST.jpg
-[pWin7HB]:   http://stascorp.com/images/rdpwrap/pWin7HB.jpg
-[pWin8DP]:   http://stascorp.com/images/rdpwrap/pWin8DP.jpg
-[pWin8CP]:   http://stascorp.com/images/rdpwrap/pWin8CP.jpg
-[pWin8RP]:   http://stascorp.com/images/rdpwrap/pWin8RP.jpg
-[pWin8]:     http://stascorp.com/images/rdpwrap/pWin8.jpg
-[pWin81P]:   http://stascorp.com/images/rdpwrap/pWin81P.jpg
-[pWin81]:    http://stascorp.com/images/rdpwrap/pWin81.jpg
-[pWin10TP]:  http://stascorp.com/images/rdpwrap/pWin10TP.jpg
-[pWin10PTP]: http://stascorp.com/images/rdpwrap/pWin10PTP.jpg
-[pWin10]:    http://stascorp.com/images/rdpwrap/pWin10.jpg
-
-[fVistaST]:  http://stascorp.com/images/rdpwrap/VistaST.png
-[fVistaHB]:  http://stascorp.com/images/rdpwrap/VistaHB.png
-[fWin7ST]:   http://stascorp.com/images/rdpwrap/Win7ST.png
-[fWin7HB]:   http://stascorp.com/images/rdpwrap/Win7HB.png
-[fWin8DP]:   http://stascorp.com/images/rdpwrap/Win8DP.png
-[fWin8CP]:   http://stascorp.com/images/rdpwrap/Win8CP.png
-[fWin8RP]:   http://stascorp.com/images/rdpwrap/Win8RP.png
-[fWin8]:     http://stascorp.com/images/rdpwrap/Win8.png
-[fWin81P]:   http://stascorp.com/images/rdpwrap/Win81P.png
-[fWin81]:    http://stascorp.com/images/rdpwrap/Win81.png
-[fWin10TP]:  http://stascorp.com/images/rdpwrap/Win10TP.png
-[fWin10PTP]: http://stascorp.com/images/rdpwrap/Win10PTP.png
-[fWin10]:    http://stascorp.com/images/rdpwrap/Win10.png
-
 | CVE编号    | 漏洞类型 | 影响版本号 | 工具来源 |
 | ------------- | ----------- | ----------- | ----------- |
-| CVE-2014-4210 | [![Windows Vista Starter][pVistaST]][fVistaST] [![Windows Vista Home Basic][pVistaHB]][fVistaHB] | ----------- | ----------- |
-| CVE-2015-4852 | [![Windows 7 Starter][pWin7ST]][fWin7ST] [![Windows 7 Home Basic][pWin7HB]][fWin7HB] | ----------- | ----------- |
-| CVE-2016-0638 | [![Windows 8 Developer Preview][pWin8DP]][fWin8DP] [![Windows 8 Consumer Preview][pWin8CP]][fWin8CP] [![Windows 8 Release Preview][pWin8RP]][fWin8RP] [![Windows 8][pWin8]][fWin8] |  ----------- | ----------- |
-| CVE-2016-3510 | [![Windows 8.1 Preview][pWin81P]][fWin81P] [![Windows 8.1][pWin81]][fWin81] | ----------- | ----------- |
-| CVE-2017-3428 | [![Windows 10 Technical Preview][pWin10TP]][fWin10TP] [![Windows 10 Pro Technical Preview][pWin10PTP]][fWin10PTP] [![Windows 10][pWin10]][fWin10] | ----------- | ----------- |
+| CVE-2014-4210 | ----------- | ----------- | ----------- |
+| CVE-2015-4852 | ----------- | ----------- | ----------- |
+| CVE-2016-0638 | ----------- | ----------- | ----------- |
+| CVE-2016-3510 | ----------- | ----------- | ----------- |
+| CVE-2017-3428 | ----------- | ----------- | ----------- |
 
 CVE编号	                   漏洞类型	                     影响版本号	                工具来源
 
