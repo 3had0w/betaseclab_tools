@@ -21,5 +21,5 @@
 | CVE-2019-2725 | JAVA反序列化 | 10.*，12.1.3 | [Github](https://github.com/ianxtianxt/CVE-2019-2725) |
 | CVE-2019-2729 | JAVA反序列化 | 10.3.6.0.0，12.1.3.0.0，12.2.1.3.0 | [Github](https://github.com/black-mirror/Weblogic) |
 | CNVD-C-2019-48814 | JAVA反序列化 | 10.3.6.0，12.1.3.0，12.2.1.2，12.2.1.3 | [Github](https://github.com/bigsizeme/CNVD-C-2019-48814) |
-| Weblogic-admin | Weblogic后台和常用弱口令 |   | [Github](https://github.com/rabbitmask/WeblogicWeakPwd) |
-| Weblogic_Decrypt | Weblogic 7种解密方式及工具 |   | [Github](https://github.com/TideSec/Decrypt_Weblogic_Password) |
+| Weblogic-Admin | Weblogic后台和常用弱口令 |   | [Github](https://github.com/rabbitmask/WeblogicWeakPwd) |
+| Weblogic-Decrypt | Weblogic 7种解密方式及工具 |   | [Github](https://github.com/TideSec/Decrypt_Weblogic_Password) |
